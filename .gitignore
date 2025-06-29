@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Kunci rahasia Firebase (jangan pernah upload ke GitHub!)
+serviceAccountKey.json
+
+# File Excel (opsional tergantung kebutuhan)
+*.xlsx
+
+# Logs & temp files
+npm-debug.log
+.DS_Store
+.env
